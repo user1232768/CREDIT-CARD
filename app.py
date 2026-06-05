@@ -1,6 +1,6 @@
 """
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║         Life Insurance & Fraud Detection Analytics Platform                  ║
+║                        Fraud Detection Platform                              ║
 ║         Built with Streamlit · RandomForest Model · Plotly Charts            ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 
